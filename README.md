@@ -1,4 +1,4 @@
-## KEGALI Global
+## KEGALI Industry
 
 | Front-end | [React](https://pt-br.reactjs.org/) |
 | Back-end | [Express.js](https://expressjs.com/pt-br/) |
