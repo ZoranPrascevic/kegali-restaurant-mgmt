@@ -1,4 +1,4 @@
-## KEGALI Project
+## KEGALI Platform
 
 | Front-end | [React](https://pt-br.reactjs.org/) |
 | Back-end | [Express.js](https://expressjs.com/pt-br/) |
