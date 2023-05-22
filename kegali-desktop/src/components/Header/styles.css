@@ -1,0 +1,46 @@
+a.header-aba {
+  color: var(--dracula-orchid);
+
+  text-decoration: none;
+}
+
+.header {
+  background-color: var(--dropheon);
+
+  border-bottom: 1px solid var(--american-river);
+
+  flex-direction: row;
+  align-items: center;
+  display: flex;
+
+  overflow-x: auto;
+  z-index: 1;
+}
+
+.header .header-aba {
+  padding-left:  16px;
+  padding-right: 16px;
+
+  border-right: 1px solid var(--american-river);
+
+  justify-content: center;
+  align-items: center;
+  display: flex;
+
+  min-height: 48px;
+}
+
+.header .header-aba span {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.header .header-aba:hover {
+  background-color: white;
+
+  transition: all .25s;
+}
+
+.header .atual.header-aba {
+  background-color: white;
+}
