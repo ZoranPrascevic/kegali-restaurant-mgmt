@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const uris = process.env.MONGODB_URL || 'mongodb://localhost/kegali-db';
+const uris = process.env.MONGODB_URL || 'mongodb://localhost/KEGALI-db';
 
 mongoose.set('useNewUrlParser', true);
 mongoose.set('useUnifiedTopology', true);

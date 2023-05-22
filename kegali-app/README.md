@@ -1,4 +1,4 @@
-# kegali App ```<3```
+# KEGALI App ```<3```
 
 ## Documento de especificação de software
 
