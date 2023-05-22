@@ -1,4 +1,4 @@
-## KEGALI Restaurant
+## KEGALI Project
 
 | Front-end | [React](https://pt-br.reactjs.org/) |
 | Back-end | [Express.js](https://expressjs.com/pt-br/) |
